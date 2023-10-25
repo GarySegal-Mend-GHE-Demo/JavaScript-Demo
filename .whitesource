@@ -1,4 +1,4 @@
-{
+{ 
   "settingsInheritedFrom": "GarySegal-Mend-GHE-Demo/whitesource-config@main",
   "scanSettings": {
     "configMode": "LOCAL"
